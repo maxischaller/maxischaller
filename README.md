@@ -2,8 +2,10 @@
 - I am currently pursuing my PhD in Economics at Berlin School of Economics and working as research associate at [German Institute for Economic Research](https://www.diw.de/de/diw_01.c.881314.de/personen/schaller__maximilian.html) (DIW Berlin).
 - My research focuses on labor economics, applied microeconomics and structural microeconometrics.
 - You may reach me via email [mschaller@diw.de](mailto:mschaller@diw.de).
-- For more information, check my [personal website](https://maxischaller.github.io).
 
+<!--
+- For more information, check my [personal website](https://maxischaller.github.io).
+-->
 <!--
 **maxischaller/maxischaller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
